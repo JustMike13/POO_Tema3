@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1589982961 source:d:\fmi sem2\poo tema 3\tema3poo\masina.cpp
+	"masina.h"
+	<iostream>
+
+1589846809 d:\fmi sem2\poo tema 3\tema3poo\masina.h
+	<string>
+
+1589982961 source:d:\fmi sem2\poo tema 3\tema3poo\monovolum.cpp
+	"monovolum.h"
+	<iostream>
+
+1589926763 d:\fmi sem2\poo tema 3\tema3poo\monovolum.h
+	"masina.h"
+
+1590007570 source:d:\fmi sem2\poo tema 3\tema3poo\main.cpp
+	<iostream>
+	"masina.h"
+	"monovolum.h"
+	<vector>
+	"eroare.h"
+
+1590005554 d:\fmi sem2\poo tema 3\tema3poo\eroare.h
+	<exception>
+
